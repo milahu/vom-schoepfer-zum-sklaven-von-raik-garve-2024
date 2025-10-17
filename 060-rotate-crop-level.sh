@@ -8,7 +8,7 @@
 set -eu
 
 cd "$(dirname "$0")"
-src=040-scan-pages
+src=045-crop-scan-area
 dst=$(basename "$0" .sh)
 
 if true; then
@@ -21,14 +21,19 @@ else
 
   # 050-measure-crop-size.txt
   # original size: 1748x2480
-  crop_size=1580x2480
-  crop_x=168
-  lowthresh=20; highthresh=90
-  level=${lowthresh}x${highthresh}%
+  do_rotate=true
   rotate_odd=090
   rotate_even=270
+
+  do_crop=true
+  crop_size=1580x2480
+  crop_x=168
   crop_odd_expr='echo ${crop_size}+$crop_x+0'
   crop_even_expr='echo ${crop_size}+000+0'
+
+  do_level=true
+  lowthresh=20; highthresh=90
+  level=${lowthresh}x${highthresh}%
 fi
 
 mkdir -p $dst
@@ -56,8 +61,15 @@ for i in $src/*.$scan_format; do
     crop=$crop_even
   fi
 
-  echo + magick "$i" -rotate $rot -crop $crop -level $level "$o"
-  magick "$i" -rotate $rot -crop $crop -level $level "$o"
+  # magick "$i" -rotate $rot -crop $crop -level $level "$o"
+  magick_args=(magick "$i")
+  if $do_rotate; then magick_args+=(-rotate $rot); fi
+  if $do_crop; then magick_args+=(-crop $crop); fi
+  if $do_level; then magick_args+=(-level $level); fi
+  magick_args+=("$o")
+
+  echo + "${magick_args[@]}"
+  "${magick_args[@]}"
 
   num_pages=$((num_pages + 1))
 
