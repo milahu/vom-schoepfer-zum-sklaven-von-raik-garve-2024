@@ -10,5 +10,8 @@ crop_odd=3280x5078+$((3685 - 3280))+0
 crop_even=3280x5078+0+0
 
 do_level=true
+# NOTE lowthresh=20 is too dark for the book cover -> use lowthresh=10
+# lowthresh=10 = 25/255 in gimp
+# highthresh=90 = 230/255 in gimp
 lowthresh=20; highthresh=90
 level=${lowthresh}x${highthresh}%
