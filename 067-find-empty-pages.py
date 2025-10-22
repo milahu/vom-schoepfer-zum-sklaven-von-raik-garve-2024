@@ -17,9 +17,11 @@ dst = os.path.splitext(os.path.basename(__file__))[0]
 max_workers = os.cpu_count() or 4  # use all available cores
 
 out_path = f"{dst}.txt"
+"""
 if os.path.exists(out_path):
     print(f"error: out_path exists: {out_path}")
     sys.exit(1)
+"""
 
 os.makedirs(dst, exist_ok=True)
 
