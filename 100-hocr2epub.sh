@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+set -eux
+
 dst=$(basename "$0" .sh).epub
 
 doc_title="$(head -n1 readme.md | sed 's/^#\s*//')"
