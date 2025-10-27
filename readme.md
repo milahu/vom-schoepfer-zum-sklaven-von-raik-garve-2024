@@ -42,10 +42,10 @@ Oktober 2024
 
 ## scans
 
-### TODO_BOOK_TORRENT_NAME
+### vom.schoepfer.zum.sklaven.von.raik.garve.2024.german.book.scan.600dpi.deskew.tiff
 
 ```
-TODO_BOOK_TORRENT_MAGNET_LINK
+magnet:?xt=urn:btih:90e7c4db53bd270a921f7aec63f8797724332180&dn=vom.schoepfer.zum.sklaven.von.raik.garve.2024.german.book.scan.600dpi.deskew.tiff&xl=948218064&tr=udp%3A%2F%2F45.9.60.30%3A6969%2Fannounce&tr=udp%3A%2F%2F185.216.179.62%3A25%2Fannounce&tr=udp%3A%2F%2F93.158.213.92%3A1337%2Fannounce&tr=udp%3A%2F%2F107.189.2.131%3A1337%2Fannounce&piece_size=4194304
 ```
 
 ## mirrors
