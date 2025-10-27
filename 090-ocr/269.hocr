@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../070-deskew/269.tiff"; bbox 0 0 3448 4726; ppageno 0; scan_res 600 600'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 357 1599 2988 3155">
+    <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 357 1599 2988 3155">
+     <span class='ocr_line' id='line_1_1' title="bbox 357 1599 2988 1897; baseline -0.001 -65; x_size 297; x_descenders 67; x_ascenders 74">
+      <span class='ocrx_word' id='word_1_1' title='bbox 357 1608 993 1832; x_wconf 96'>Vom</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 1101 1599 2318 1897; x_wconf 96'>Schöpfer</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 2407 1676 2988 1832; x_wconf 96'>zum</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1143 1973 2223 2206; baseline -0.005 0; x_size 295.82642; x_descenders 65.826431; x_ascenders 75">
+      <span class='ocrx_word' id='word_1_4' title='bbox 1143 1973 2223 2206; x_wconf 96'>Sklaven</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 425 2324 2920 2514; baseline 0 -44; x_size 192; x_descenders 43; x_ascenders 48">
+      <span class='ocrx_word' id='word_1_5' title='bbox 425 2331 749 2473; x_wconf 96'>Der</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 804 2324 1796 2473; x_wconf 96'>unsichtbare</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 1858 2324 2346 2514; x_wconf 96'>Krieg</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 2410 2371 2920 2514; x_wconf 96'>gegen</span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1016 2561 2337 2711; baseline -0.002 0; x_size 191.89336; x_descenders 42.893353; x_ascenders 48">
+      <span class='ocrx_word' id='word_1_9' title='bbox 1016 2562 1267 2711; x_wconf 96'>die</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 1329 2561 2337 2710; x_wconf 77'>Menschheit</span>
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 881 3024 2468 3155; baseline -0.001 -27; x_size 129; x_descenders 28; x_ascenders 32">
+      <span class='ocrx_word' id='word_1_11' title='bbox 881 3025 1505 3155; x_wconf 96'>Gespräche</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 1550 3025 1746 3127; x_wconf 93'>mit</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 1787 3024 2068 3127; x_wconf 92' lang='eng'>Raik</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 2112 3027 2468 3127; x_wconf 92'>Garve</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

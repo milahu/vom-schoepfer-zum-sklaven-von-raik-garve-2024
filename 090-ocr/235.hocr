@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../070-deskew/235.tiff"; bbox 0 0 3440 4730; ppageno 0; scan_res 600 600'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 312 514 3001 4341">
+    <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 312 514 3001 4341">
+     <span class='ocr_line' id='line_1_1' title="bbox 313 514 1976 644; baseline 0.002 -32; x_size 127; x_descenders 29; x_ascenders 29">
+      <span class='ocrx_word' id='word_1_1' title='bbox 313 514 378 612; x_wconf 93'>2</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 428 516 1705 644; x_wconf 91'>Betrachtungsweisen</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 1747 548 1976 616; x_wconf 96'>von</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 313 681 1466 780; baseline 0.002 -3; x_size 124.13832; x_descenders 27.138325; x_ascenders 29">
+      <span class='ocrx_word' id='word_1_4' title='bbox 313 681 1466 780; x_wconf 91' lang='eng'>Menschenkindern</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 467 1133 2902 1229; baseline 0.001 -24; x_size 94; x_descenders 22; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_5' title='bbox 467 1133 1493 1227; x_wconf 89' lang='eng'>Verhaltenssteuerung</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 1769 1133 2902 1229; x_wconf 51' lang='eng'>Entwicklungsférderung</span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 896 1439 970 1509; baseline 0 0; x_size 90.047684; x_descenders 20.04768; x_ascenders 19.766899">
+      <span class='ocrx_word' id='word_1_7' title='bbox 896 1439 970 1509; x_wconf 67' lang='eng'>@</span>
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 882 1508 1135 1795; baseline 0 0; x_size 72.88765; x_descenders 16.227272; x_ascenders 16">
+      <span class='ocrx_word' id='word_1_8' title='bbox 882 1508 917 1795; x_wconf 73'>|</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 1032 1521 1135 1795; x_wconf 91'>?</span>
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 504 2018 2577 2088; baseline 0 -15; x_size 71; x_descenders 16; x_ascenders 15">
+      <span class='ocrx_word' id='word_1_10' title='bbox 504 2040 527 2062; x_wconf 46'>e</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 577 2019 846 2074; x_wconf 96' lang='eng'>Mensch</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 871 2019 966 2074; x_wconf 93'>als</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 994 2019 1164 2074; x_wconf 91'>Reiz-</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 1857 2039 1880 2061; x_wconf 88'>e</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 1929 2018 2420 2088; x_wconf 91'>Entwicklungs-</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 2448 2018 2577 2073; x_wconf 96'>und</span>
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 577 2116 2682 2194; baseline -0 -20; x_size 70; x_descenders 15; x_ascenders 15">
+      <span class='ocrx_word' id='word_1_17' title='bbox 577 2116 1252 2194; x_wconf 89'>Reaktions-Automat</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 1929 2119 2682 2190; x_wconf 92'>Bindungspsychologie</span>
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 504 2220 2317 2275; baseline 0.001 -2; x_size 69.564629; x_descenders 15.564627; x_ascenders 15">
+      <span class='ocrx_word' id='word_1_19' title='bbox 504 2241 527 2264; x_wconf 17'>e</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 577 2221 1188 2275; x_wconf 89'>Konditionierbares</span>
+      <span class='ocrx_word' id='word_1_21' title='bbox 1211 2220 1342 2274; x_wconf 96'>Tier</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 1856 2240 1880 2263; x_wconf 52'>*</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 1929 2220 2197 2274; x_wconf 96'>Mensch</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 2223 2220 2317 2274; x_wconf 96'>als</span>
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 576 2319 2470 2390; baseline -0.001 -15; x_size 70; x_descenders 15; x_ascenders 15">
+      <span class='ocrx_word' id='word_1_25' title='bbox 576 2320 847 2375; x_wconf 96'>höherer</span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 870 2320 1175 2390; x_wconf 96'>Ordnung</span>
+      <span class='ocrx_word' id='word_1_27' title='bbox 1927 2319 2470 2389; x_wconf 92'>Schöpferwesen</span>
+     </span>
+     <span class='ocr_line' id='line_1_10' title="bbox 504 2421 2671 2492; baseline -0 -16; x_size 72; x_descenders 17; x_ascenders 15">
+      <span class='ocrx_word' id='word_1_28' title='bbox 504 2442 527 2465; x_wconf 65'>e</span>
+      <span class='ocrx_word' id='word_1_29' title='bbox 577 2424 868 2478; x_wconf 89'>Massen-</span>
+      <span class='ocrx_word' id='word_1_30' title='bbox 898 2422 1027 2477; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_31' title='bbox 1857 2442 1879 2464; x_wconf 54'>*</span>
+      <span class='ocrx_word' id='word_1_32' title='bbox 1929 2421 2619 2492; x_wconf 91'>Bindungsbeziehung</span>
+      <span class='ocrx_word' id='word_1_33' title='bbox 2648 2452 2671 2458; x_wconf 92'>-</span>
+     </span>
+     <span class='ocr_line' id='line_1_11' title="bbox 574 2521 2786 2592; baseline -0 -15; x_size 70; x_descenders 15; x_ascenders 15">
+      <span class='ocrx_word' id='word_1_34' title='bbox 574 2522 1207 2592; x_wconf 91'>Sozialpsychologie</span>
+      <span class='ocrx_word' id='word_1_35' title='bbox 1928 2521 2316 2591; x_wconf 96'>psychische</span>
+      <span class='ocrx_word' id='word_1_36' title='bbox 2343 2521 2786 2576; x_wconf 96'>Nabelschnur</span>
+     </span>
+     <span class='ocr_line' id='line_1_12' title="bbox 504 2621 2676 2693; baseline -0 -16; x_size 71; x_descenders 16; x_ascenders 15">
+      <span class='ocrx_word' id='word_1_37' title='bbox 504 2644 527 2665; x_wconf 86'>e</span>
+      <span class='ocrx_word' id='word_1_38' title='bbox 574 2623 913 2678; x_wconf 96'>Schwarze</span>
+      <span class='ocrx_word' id='word_1_39' title='bbox 941 2622 1307 2693; x_wconf 96'>Pädagogik</span>
+      <span class='ocrx_word' id='word_1_40' title='bbox 1856 2642 1880 2665; x_wconf 37'>*</span>
+      <span class='ocrx_word' id='word_1_41' title='bbox 1929 2621 2213 2692; x_wconf 94'>Bindung</span>
+      <span class='ocrx_word' id='word_1_42' title='bbox 2239 2635 2349 2676; x_wconf 96'>vor</span>
+      <span class='ocrx_word' id='word_1_43' title='bbox 2369 2621 2676 2692; x_wconf 96'>Weisung</span>
+     </span>
+     <span class='ocr_line' id='line_1_13' title="bbox 558 3142 2845 3210; baseline -0.001 -13; x_size 69; x_descenders 15; x_ascenders 16">
+      <span class='ocrx_word' id='word_1_44' title='bbox 558 3143 695 3197; x_wconf 96'>Wie</span>
+      <span class='ocrx_word' id='word_1_45' title='bbox 722 3143 876 3197; x_wconf 96'>lässt</span>
+      <span class='ocrx_word' id='word_1_46' title='bbox 900 3143 1032 3197; x_wconf 93'>sich</span>
+      <span class='ocrx_word' id='word_1_47' title='bbox 1061 3142 1407 3196; x_wconf 92'>kindliches</span>
+      <span class='ocrx_word' id='word_1_48' title='bbox 1818 3143 1973 3196; x_wconf 93'>Was</span>
+      <span class='ocrx_word' id='word_1_49' title='bbox 1997 3142 2135 3195; x_wconf 96'>sind</span>
+      <span class='ocrx_word' id='word_1_50' title='bbox 2161 3142 2264 3195; x_wconf 96'>die</span>
+      <span class='ocrx_word' id='word_1_51' title='bbox 2291 3142 2546 3195; x_wconf 93'>inneren</span>
+      <span class='ocrx_word' id='word_1_52' title='bbox 2575 3143 2845 3210; x_wconf 92'>Beweg-</span>
+     </span>
+     <span class='ocr_line' id='line_1_14' title="bbox 501 3240 2796 3311; baseline 0 -16; x_size 71; x_descenders 16; x_ascenders 16">
+      <span class='ocrx_word' id='word_1_53' title='bbox 501 3241 840 3297; x_wconf 95'>Verhalten</span>
+      <span class='ocrx_word' id='word_1_54' title='bbox 869 3243 920 3295; x_wconf 96'>in</span>
+      <span class='ocrx_word' id='word_1_55' title='bbox 950 3242 1253 3311; x_wconf 96'>Richtung</span>
+      <span class='ocrx_word' id='word_1_56' title='bbox 1281 3241 1462 3296; x_wconf 96'>eines</span>
+      <span class='ocrx_word' id='word_1_57' title='bbox 1870 3240 2121 3311; x_wconf 96'>gründe</span>
+      <span class='ocrx_word' id='word_1_58' title='bbox 2144 3240 2238 3296; x_wconf 96'>für</span>
+      <span class='ocrx_word' id='word_1_59' title='bbox 2261 3241 2358 3295; x_wconf 96'>ein</span>
+      <span class='ocrx_word' id='word_1_60' title='bbox 2386 3240 2796 3296; x_wconf 96'>bestimmtes</span>
+     </span>
+     <span class='ocr_line' id='line_1_15' title="bbox 494 3340 2715 3396; baseline -0.001 0; x_size 69.963722; x_descenders 15.96372; x_ascenders 14">
+      <span class='ocrx_word' id='word_1_61' title='bbox 494 3342 874 3396; x_wconf 91'>normierten</span>
+      <span class='ocrx_word' id='word_1_62' title='bbox 901 3341 1473 3396; x_wconf 90'>Sozialverhaltens</span>
+      <span class='ocrx_word' id='word_1_63' title='bbox 1953 3340 2298 3394; x_wconf 91'>kindliches</span>
+      <span class='ocrx_word' id='word_1_64' title='bbox 2322 3340 2657 3395; x_wconf 93'>Verhalten</span>
+      <span class='ocrx_word' id='word_1_65' title='bbox 2685 3341 2715 3393; x_wconf 93'>?</span>
+     </span>
+     <span class='ocr_line' id='line_1_16' title="bbox 824 3441 1142 3496; baseline -0.006 0; x_size 68.963722; x_descenders 15.96372; x_ascenders 13">
+      <span class='ocrx_word' id='word_1_66' title='bbox 824 3444 1084 3496; x_wconf 89'>steuern</span>
+      <span class='ocrx_word' id='word_1_67' title='bbox 1111 3441 1142 3494; x_wconf 89'>?</span>
+     </span>
+     <span class='ocr_line' id='line_1_17' title="bbox 313 3629 2999 3717; baseline -0.001 -18; x_size 87; x_descenders 19; x_ascenders 22">
+      <span class='ocrx_word' id='word_1_68' title='bbox 313 3634 450 3700; x_wconf 96'>Für</span>
+      <span class='ocrx_word' id='word_1_69' title='bbox 482 3631 600 3700; x_wconf 96'>die</span>
+      <span class='ocrx_word' id='word_1_70' title='bbox 634 3631 1208 3699; x_wconf 96'>herkömmliche</span>
+      <span class='ocrx_word' id='word_1_71' title='bbox 1245 3630 1664 3717; x_wconf 96'>Pädagogik</span>
+      <span class='ocrx_word' id='word_1_72' title='bbox 1698 3630 1965 3717; x_wconf 96'>gleicht</span>
+      <span class='ocrx_word' id='word_1_73' title='bbox 1999 3630 2125 3698; x_wconf 96'>der</span>
+      <span class='ocrx_word' id='word_1_74' title='bbox 2158 3629 2470 3698; x_wconf 96'>Mensch</span>
+      <span class='ocrx_word' id='word_1_75' title='bbox 2505 3630 2700 3698; x_wconf 93'>einer</span>
+      <span class='ocrx_word' id='word_1_76' title='bbox 2733 3630 2999 3698; x_wconf 92'>Black-</span>
+     </span>
+     <span class='ocr_line' id='line_1_18' title="bbox 312 3773 3001 3862; baseline -0.001 -19; x_size 88; x_descenders 20; x_ascenders 22">
+      <span class='ocrx_word' id='word_1_77' title='bbox 312 3775 481 3856; x_wconf 96'>box,</span>
+      <span class='ocrx_word' id='word_1_78' title='bbox 532 3775 773 3843; x_wconf 96'>einem</span>
+      <span class='ocrx_word' id='word_1_79' title='bbox 823 3776 1344 3862; x_wconf 93'>biologischen</span>
+      <span class='ocrx_word' id='word_1_80' title='bbox 1393 3775 2570 3842; x_wconf 91'>Reiz-Reaktions-Automaten.</span>
+      <span class='ocrx_word' id='word_1_81' title='bbox 2622 3774 2758 3841; x_wconf 96'>Ein</span>
+      <span class='ocrx_word' id='word_1_82' title='bbox 2805 3773 3001 3841; x_wconf 96'>Kind</span>
+     </span>
+     <span class='ocr_line' id='line_1_19' title="bbox 312 3919 2998 4008; baseline -0.001 -19; x_size 88; x_descenders 19; x_ascenders 23">
+      <span class='ocrx_word' id='word_1_83' title='bbox 312 3921 493 3989; x_wconf 96'>wird</span>
+      <span class='ocrx_word' id='word_1_84' title='bbox 538 3920 671 3989; x_wconf 96'>mit</span>
+      <span class='ocrx_word' id='word_1_85' title='bbox 716 3943 900 4008; x_wconf 96'>ganz</span>
+      <span class='ocrx_word' id='word_1_86' title='bbox 946 3920 1410 3989; x_wconf 96'>bestimmten</span>
+      <span class='ocrx_word' id='word_1_87' title='bbox 1456 3919 2024 3988; x_wconf 96'>Informationen</span>
+      <span class='ocrx_word' id='word_1_88' title='bbox 2069 3919 2216 3988; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_89' title='bbox 2263 3919 2620 3988; x_wconf 96'>Befehlen</span>
+      <span class='ocrx_word' id='word_1_90' title='bbox 2666 3919 2740 3987; x_wconf 96'>in</span>
+      <span class='ocrx_word' id='word_1_91' title='bbox 2786 3922 2998 3987; x_wconf 96'>Form</span>
+     </span>
+     <span class='ocr_line' id='line_1_20' title="bbox 1584 4274 1725 4341; baseline 0 -1; x_size 83.6157; x_descenders 18.615702; x_ascenders 18.354979">
+      <span class='ocrx_word' id='word_1_92' title='bbox 1584 4274 1725 4341; x_wconf 96'>235</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
